@@ -1,2 +1,4 @@
 # transfer DNA
-CMB实验室科研项目部分个人代码
+CMB laboratory research project 
+personal code written by Sheena Chou
+Determine the sequence transfer direction
