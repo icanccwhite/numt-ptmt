@@ -1,4 +1,4 @@
 # transfer DNA
 CMB laboratory research project, 
-personal code written by Sheena Chou,
+personal code written by Xiaoyu Zhou
 Determine the sequence transfer direction.
