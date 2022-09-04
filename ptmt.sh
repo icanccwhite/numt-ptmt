@@ -1,4 +1,9 @@
 #!/bin/bash
+###################################
+# Author: Xiaoyu Zhou
+# Email:  xyzh@biomed.au.dk
+###################################
+
 function readfile() { 
 for file in `ls $1/*.fna`
 do 
