@@ -1,4 +1,9 @@
 #!/usr/bin/perl -w
+###################################
+# Author: Xiaoyu Zhou
+# Email:  xyzh@biomed.au.dk
+###################################
+
 use strict;
 sub PTMT{ 
 	my @file=@_;
