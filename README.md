@@ -4,4 +4,4 @@ personal code written by Xiaoyu Zhou\
 Determine the sequence transfer direction.
 #### The designed script based on biology communication with Prof. Dengke Niu.
 
-thought about repeat region alignment
+thought about genome repeat region alignment
