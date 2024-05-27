@@ -19,3 +19,5 @@ Part contribution (code not included) of this Paper: [Desiccation does not drast
 
 
 #### It's also a good way to evaluate genome assembly quality, especially the repeat regions.
+
+![image](20180702084744.jpg)
