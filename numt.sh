@@ -1,7 +1,7 @@
 #!/bin/bash
 ###################################
 # Author: Xiaoyu Zhou
-# Email:  xyzh@biomed.au.dk
+# Email:  icanccwhite@icoud.com
 ###################################
 
 function readfile() { 
