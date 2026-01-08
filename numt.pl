@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 ###################################
 # Author: Xiaoyu Zhou
-# Email:  xyzh@biomed.au.dk
+# Email:  icanccwhite@icloud.com
 ###################################
 use strict;
 sub NUMT{
